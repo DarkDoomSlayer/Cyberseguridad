@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c488d1c4a24ee97f",
+    "type": "split",
+    "children": [
+      {
+        "id": "899628d6e4178302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3f0ae85547cf997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Lets Warm Up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0218d25b6cdc1cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "296cb8dbb3e6c42b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2808f776fabd653",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e070eabf7abc9165",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Solucion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f11724400fe1c9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9de98a47941a019c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b397fbcddcefabd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3360ae69df81d521",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-Lets Warm Up"
+            }
+          },
+          {
+            "id": "ace9c75919aa8c01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-Lets Warm Up"
+            }
+          },
+          {
+            "id": "6f378e51bfa8b456",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "454c2b510e9f4489",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6f1164352041bf01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-Lets Warm Up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3f0ae85547cf997",
+  "lastOpenFiles": [
+    "picoCTF/1 - General Skills/2-2warm.md",
+    "picoCTF/1 - General Skills/3-Warmed Up.md",
+    "picoCTF/1 - General Skills/5-First Grep.md",
+    "picoCTF/1 - General Skills/4-Bases.md",
+    "picoCTF/1 - General Skills/6-Obedient Cat.md",
+    "picoCTF/1 - General Skills/7-plumbing.md",
+    "picoCTF/1 - General Skills/8-what's a net cat?.md",
+    "picoCTF/1 - General Skills/9-Glitch Cat.md",
+    "picoCTF/1 - General Skills/10-Nice netcat....md",
+    "README.md",
+    "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+    "picoCTF/plantilla.md",
+    "picoCTF/1 - General Skills",
+    "Welcome.md",
+    "picoCTF"
+  ]
+}
