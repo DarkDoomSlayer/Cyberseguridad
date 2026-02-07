@@ -1,4 +1,4 @@
-# what's a net cat?
+# Glitch Cat
 # Descripción del reto: 
 ### Our flag printing service has started glitching! Additional details will be available after launching your challenge instance.
 Our flag printing service has started glitching! `$ nc saturn.picoctf.net 63969

@@ -5,6 +5,6 @@
 printf "\x70"
 p
 
-picoCFT{p}
+picoCTF{p}
 # Notas adicionales
 # Referencias

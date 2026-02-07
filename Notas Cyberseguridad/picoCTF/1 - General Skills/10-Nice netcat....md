@@ -1,4 +1,4 @@
-# what's a net cat?
+# Nice netcat
 # Descripción del reto: 
 ### There is a nice program that you can talk to by using this command in a shell: Additional details will be available after launching your challenge instance.
 There is a nice program that you can talk to by using this command in a shell: $ nc wily-courier.picoctf.net 61594, but it doesn't speak English...
