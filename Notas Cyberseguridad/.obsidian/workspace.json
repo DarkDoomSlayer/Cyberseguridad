@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1 - General Skills/10-Nice netcat....md",
+                "file": "picoCTF/2 - General Skills 2/9-Big zip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Nice netcat..."
+              "title": "9-Big zip"
             }
           }
         ]
@@ -185,8 +185,21 @@
   },
   "active": "b3f0ae85547cf997",
   "lastOpenFiles": [
-    "picoCTF/1 - General Skills/9-Glitch Cat.md",
+    "picoCTF/2 - General Skills 2/10-First Find.md",
+    "picoCTF/2 - General Skills 2/9-Big zip.md",
+    "picoCTF/2 - General Skills 2/8-repetitions.md",
+    "picoCTF/2 - General Skills 2/7-Magikarp Ground Mission.md",
+    "picoCTF/2 - General Skills 2/6-Tab, Tab, Attack.md",
+    "picoCTF/2 - General Skills 2/5-useless.md",
+    "picoCTF/2 - General Skills 2/4-Static ain't always noise.md",
+    "picoCTF/2 - General Skills 2/3-Wave a flag.md",
+    "picoCTF/2 - General Skills 2/2-strings it.md",
+    "picoCTF/2 - General Skills 2/1-Based.md",
     "picoCTF/1 - General Skills/1-Lets Warm Up.md",
+    "picoCTF/1 - General Skills/10-Nice netcat....md",
+    "picoCTF/2 - General Skills 2",
+    "Untitled",
+    "picoCTF/1 - General Skills/9-Glitch Cat.md",
     "picoCTF/1 - General Skills/2-2warm.md",
     "picoCTF/1 - General Skills/3-Warmed Up.md",
     "picoCTF/1 - General Skills/5-First Grep.md",
@@ -194,7 +207,6 @@
     "picoCTF/1 - General Skills/6-Obedient Cat.md",
     "picoCTF/1 - General Skills/7-plumbing.md",
     "picoCTF/1 - General Skills/8-what's a net cat?.md",
-    "picoCTF/1 - General Skills/10-Nice netcat....md",
     "README.md",
     "picoCTF/plantilla.md",
     "picoCTF/1 - General Skills",
