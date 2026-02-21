@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/3 - General Skills 3/10- Serpentine.md",
+                "file": "picoCTF/4 - General Skills 4/9- ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Serpentine"
+              "title": "9- ASCII Numbers"
             }
           }
         ]
@@ -185,8 +185,19 @@
   },
   "active": "b3f0ae85547cf997",
   "lastOpenFiles": [
-    "picoCTF/3 - General Skills 3/9- PW Crack 3.md",
+    "picoCTF/4 - General Skills 4/6-collaborative development.md",
+    "picoCTF/4 - General Skills 4/7- Binary Search.md",
+    "picoCTF/4 - General Skills 4/8- binhexa.md",
+    "picoCTF/4 - General Skills 4/9- ASCII Numbers.md",
+    "picoCTF/4 - General Skills 4/5-Blame Game.md",
+    "picoCTF/4 - General Skills 4/4- Time Machine.md",
+    "picoCTF/4 - General Skills 4/3- Special.md",
+    "picoCTF/4 - General Skills 4/2-chrono.md",
+    "picoCTF/4 - General Skills 4/1-permissions.md",
+    "picoCTF/4 - General Skills 4/4- committee issue.md",
     "picoCTF/3 - General Skills 3/10- Serpentine.md",
+    "picoCTF/4 - General Skills 4",
+    "picoCTF/3 - General Skills 3/9- PW Crack 3.md",
     "picoCTF/3 - General Skills 3/8- PW Crack 2.md",
     "picoCTF/3 - General Skills 3/7- PW Crack.md",
     "picoCTF/3 - General Skills 3/5- fixme1.py.md",
@@ -202,17 +213,7 @@
     "picoCTF/2 - General Skills 2/8-repetitions.md",
     "picoCTF/2 - General Skills 2/7-Magikarp Ground Mission.md",
     "picoCTF/2 - General Skills 2/6-Tab, Tab, Attack.md",
-    "picoCTF/2 - General Skills 2/5-useless.md",
-    "picoCTF/2 - General Skills 2/4-Static ain't always noise.md",
-    "picoCTF/2 - General Skills 2/3-Wave a flag.md",
-    "picoCTF/2 - General Skills 2/2-strings it.md",
-    "picoCTF/1 - General Skills/1-Lets Warm Up.md",
-    "picoCTF/1 - General Skills/10-Nice netcat....md",
     "picoCTF/2 - General Skills 2",
-    "picoCTF/1 - General Skills/9-Glitch Cat.md",
-    "picoCTF/1 - General Skills/2-2warm.md",
-    "picoCTF/1 - General Skills/3-Warmed Up.md",
-    "picoCTF/1 - General Skills/5-First Grep.md",
     "picoCTF/1 - General Skills",
     "picoCTF"
   ]
