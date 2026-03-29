@@ -5,8 +5,7 @@ Entrar a la página, inspeccionar la cookie y decodificarla para obtener la flag
 
 - Primero es entrar al link dado, luego loguearnos, inspeccionar la cookie y decodificarla en base64, con ello obtener la flag
 
-picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
-
+picoCTF{c00k1e_m0nster_l0ves_c00kies_B3AD94C2}
 
 # Notas adicionales
 - 

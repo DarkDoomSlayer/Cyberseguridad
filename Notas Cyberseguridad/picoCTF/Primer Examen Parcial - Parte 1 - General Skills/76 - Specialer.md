@@ -5,8 +5,7 @@ Entramos a la página dada y revisamos que podemos usar, aprovechando a ello usa
 
 - Primero entramos a la página que se nos da con sus credenciales, después usamos un help para ver que comandos podemos usar, esta el echo y read, por lo que con "echo .* */*" comprobamos las carpetas que hay y después con "echo "$(<file.txt)" vamos accediendo a los diferentes archivos hasta el de "ala/kazam.txt" con el que obtenemos la flag
 
-picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_811ae7e9}
-
+picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_d5ef8b71}
 
 # Notas adicionales
 - 

@@ -5,8 +5,7 @@ Entrar a la página dada y usar los comodines para poder acceder al .txt y conse
 
 - Primero es entrar al link que se nos da, después con ayuda de los comodines escribimos lo siguiente para poder acceder al .txt "/*/???[!_]64 */????.*", con ese comando nos muestra un texto en base64 "cGljb0NURns3aDE1X211MTcxdjNyNTNfMTVfbTRkbjM1NV83NzVhYzEyZH0=", que solo usamos cyberchef para transformarlo y obtenemos la flag
 
-picoCTF{7h15_mu171v3r53_15_m4dn355_775ac12d}
-
+picoCTF{7h15_mu171v3r53_15_m4dn355_36a674c0}
 
 # Notas adicionales
 - 

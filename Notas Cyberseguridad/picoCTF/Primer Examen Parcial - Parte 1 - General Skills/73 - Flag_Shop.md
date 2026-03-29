@@ -5,8 +5,7 @@ Entrar a la página y causar un integer overflow para poder comprar la flag
 
 - Primero entramos a la página, después compramos banderas, pero una cantidad "2400000" para con esto causar que nuestro estado de cuenta gane dinero por el overflow y con ello comprar nuestra flag
 
-picoCTF{m0n3y_bag5_44cFf530}
-
+picoCTF{m0n3y_bag5_984Fce5a}
 
 # Notas adicionales
 - 
