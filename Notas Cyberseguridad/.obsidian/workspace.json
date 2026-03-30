@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 4/6-Operation Oni.md",
+                "file": "picoCTF/Forensic/9-Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-Operation Oni"
+              "title": "9-Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -185,8 +185,19 @@
   },
   "active": "ffbf920864d9c7f4",
   "lastOpenFiles": [
-    "picoCTF/Forensic 4/5-Operation Orchid.md",
+    "picoCTF/Forensic/8-RED.md",
+    "picoCTF/Forensic/9-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Forensic/7-Secret of the Polyglot.md",
+    "picoCTF/Forensic/6-CanYouSee.md",
+    "picoCTF/Forensic/5-Scan Surprise.md",
+    "picoCTF/Forensic/4-hideme.md",
+    "picoCTF/Forensic/3- Redaction gone wrong.md",
+    "picoCTF/Forensic/2-St3g0.md",
+    "picoCTF/Forensic/1-information.md",
     "picoCTF/Forensic 4/6-Operation Oni.md",
+    "picoCTF/Forensic",
+    "picoCTF/Forensic 4/Sin nombre",
+    "picoCTF/Forensic 4/5-Operation Orchid.md",
     "picoCTF/Forensic 4/4-Sleuthkit Apprentice.md",
     "picoCTF/Forensic 4/3- Sleuthkit Intro.md",
     "picoCTF/Forensic 4/2-Disk, disk, sleuth!.md",
@@ -204,22 +215,11 @@
     "picoCTF/Forensic 2/3-c0rrupt (mystery).md",
     "picoCTF/Forensic 2/4-Local Authority.md",
     "picoCTF/Forensic 2/6-Roboto Sans.md",
-    "picoCTF/Forensic 2/7-Secrets.md",
-    "picoCTF/Forensic 2/8-SQLiLite.md",
-    "picoCTF/Forensic 2/9-Unminify.md",
-    "picoCTF/Forensic 2/10-WebDecode.md",
     "picoCTF/Forensic 2",
-    "picoCTF/Concurso/Forensics Git 1.md",
-    "picoCTF/Concurso/Timeline 1.md",
-    "picoCTF/Concurso/4-Local Authority.md",
-    "picoCTF/Concurso/5-Power Cookie.md",
-    "picoCTF/Concurso/6-Roboto Sans.md",
     "picoCTF/Concurso",
     "picoCTF/Forensic 1",
     "picoCTF/Web Tarea 2",
     "picoCTF/Web 4",
-    "picoCTF/Web 3",
-    "picoCTF/Web 2",
-    "picoCTF/Web 1"
+    "picoCTF/Web 3"
   ]
 }
