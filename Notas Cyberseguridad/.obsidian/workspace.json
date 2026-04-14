@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/9-Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/Crypto/7-interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-Ph4nt0m 1ntrud3r"
+              "title": "7-interencdec"
             }
           }
         ]
@@ -185,8 +185,19 @@
   },
   "active": "ffbf920864d9c7f4",
   "lastOpenFiles": [
-    "picoCTF/Forensic/8-RED.md",
+    "picoCTF/Crypto/10-WebDecode.md",
+    "picoCTF/Crypto/7-interencdec.md",
+    "picoCTF/Crypto/9-Unminify.md",
+    "picoCTF/Crypto/8-SQLiLite.md",
+    "picoCTF/Crypto/6-waves over lambda.md",
+    "picoCTF/Crypto/5- la cifra de.md",
+    "picoCTF/Crypto/4-Easy1.md",
+    "picoCTF/Crypto/3-caesar.md",
+    "picoCTF/Crypto/2-13.md",
+    "picoCTF/Crypto/1-The Numbers.md",
     "picoCTF/Forensic/9-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Crypto",
+    "picoCTF/Forensic/8-RED.md",
     "picoCTF/Forensic/7-Secret of the Polyglot.md",
     "picoCTF/Forensic/6-CanYouSee.md",
     "picoCTF/Forensic/5-Scan Surprise.md",
@@ -204,22 +215,11 @@
     "picoCTF/Forensic 4/1-Milkslap.md",
     "picoCTF/Forensic 3/4-MacroHard WeakEdge.md",
     "picoCTF/Forensic 4",
-    "picoCTF/Forensic 2 1/5-shark on wire 2.md",
-    "picoCTF/Forensic 3/3-Matryoshka doll.md",
-    "picoCTF/Forensic 3/2-WebNet1.md",
-    "picoCTF/Forensic 3/1-WebNet0.md",
-    "picoCTF/Forensic 2/5-shark on wire 2.md",
     "picoCTF/Forensic 3",
-    "picoCTF/Forensic 2/1-m00nwalk.md",
-    "picoCTF/Forensic 2/2-WhitePages.md",
-    "picoCTF/Forensic 2/3-c0rrupt (mystery).md",
-    "picoCTF/Forensic 2/4-Local Authority.md",
-    "picoCTF/Forensic 2/6-Roboto Sans.md",
     "picoCTF/Forensic 2",
     "picoCTF/Concurso",
     "picoCTF/Forensic 1",
     "picoCTF/Web Tarea 2",
-    "picoCTF/Web 4",
-    "picoCTF/Web 3"
+    "picoCTF/Web 4"
   ]
 }
