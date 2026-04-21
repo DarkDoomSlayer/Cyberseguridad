@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto 3/2-miniRSA.md",
+                "file": "picoCTF/Crypto 4/5-Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-miniRSA"
+              "title": "5-Flags"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "514d83b7610f46fb",
   "lastOpenFiles": [
-    "picoCTF/Crypto 3/5-Mind your Ps and Qs.md",
+    "picoCTF/Crypto 4/4-ReadMyCert.md",
+    "picoCTF/Crypto 4/3-HideToSee.md",
+    "picoCTF/Crypto 4/2-basic-mod1.md",
+    "picoCTF/Crypto 4/1-Pixelated.md",
     "picoCTF/Crypto 3/2-miniRSA.md",
+    "picoCTF/Crypto 4/5-Flags.md",
+    "picoCTF/Crypto 4",
+    "picoCTF/Crypto 3/5-Mind your Ps and Qs.md",
     "picoCTF/Crypto 3/1-Mini RSA.md",
     "picoCTF/Crypto 3/4-b00tl3gRSA3.md",
     "picoCTF/Crypto 3/3-b00tl3gRSA2.md",
@@ -208,18 +214,12 @@
     "picoCTF/Crypto/8-SQLiLite.md",
     "picoCTF/Crypto/6-waves over lambda.md",
     "picoCTF/Crypto/5- la cifra de.md",
-    "picoCTF/Crypto/4-Easy1.md",
-    "picoCTF/Crypto/3-caesar.md",
-    "picoCTF/Crypto/2-13.md",
-    "picoCTF/Crypto/1-The Numbers.md",
-    "picoCTF/Forensic/9-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Crypto",
     "picoCTF/Forensic",
     "picoCTF/Forensic 4/Sin nombre",
     "picoCTF/Forensic 4",
     "picoCTF/Forensic 3",
     "picoCTF/Forensic 2",
-    "picoCTF/Concurso",
-    "picoCTF/Forensic 1"
+    "picoCTF/Concurso"
   ]
 }
