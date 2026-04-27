@@ -18,7 +18,7 @@ Se desarrolló un script en Python para automatizar la extracción y el mapeo:
 4. **Extracción de la bandera:** Se utilizó la expresión regular `picoCTF\{.*?\}` sobre el texto ya descifrado para aislar la bandera del resto de la narrativa del mensaje (que resultó ser un fragmento de Sherlock Holmes).
 
 **Bandera final:**
-picoCTF{5UB5717U710N_3V0LU710N_59533A2E}
+`picoCTF{5UB5717U710N_3V0LU710N_59533A2E}`
 
 # Notas adicionales:
 * En casos donde *no* se proporciona la llave (como en retos más avanzados), estos cifrados de sustitución pueden romperse mediante **Análisis de Frecuencias**, contando las letras más repetidas (como la 'E' o la 'A' en inglés) o analizando digramas comunes (como 'TH' o 'HE').
