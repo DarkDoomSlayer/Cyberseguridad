@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea Crypto/10-Vigenere.md",
+                "file": "picoCTF/Reversing Parte 1/3-vault-door-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-Vigenere"
+              "title": "3-vault-door-3"
             }
           }
         ]
@@ -185,8 +185,15 @@
   },
   "active": "514d83b7610f46fb",
   "lastOpenFiles": [
-    "picoCTF/Tarea Crypto/9-substitution2.md",
+    "picoCTF/Reversing Parte 1/4-vault-door-4.md",
+    "picoCTF/Reversing Parte 1/5-vault-door-5.md",
+    "picoCTF/Reversing Parte 1/6-Client-side-again.md",
+    "picoCTF/Reversing Parte 1/3-vault-door-3.md",
+    "picoCTF/Reversing Parte 1/2-vault-door-1.md",
+    "picoCTF/Reversing Parte 1/1-vault-door-training.md",
     "picoCTF/Tarea Crypto/10-Vigenere.md",
+    "picoCTF/Reversing Parte 1",
+    "picoCTF/Tarea Crypto/9-substitution2.md",
     "picoCTF/Tarea Crypto/8-substitution1.md",
     "picoCTF/Tarea Crypto/7-substitution0.md",
     "picoCTF/Tarea Crypto/6-rail-fence.md",
@@ -207,19 +214,12 @@
     "picoCTF/Crypto 3/1-Mini RSA.md",
     "picoCTF/Crypto 3/4-b00tl3gRSA3.md",
     "picoCTF/Crypto 3/3-b00tl3gRSA2.md",
-    "picoCTF/Crypto 3/7-interencdec.md",
-    "picoCTF/Crypto 3/6-waves over lambda.md",
-    "picoCTF/Crypto 3/5- la cifra de.md",
-    "picoCTF/Crypto 2/1-rsa-pop-quiz.md",
     "picoCTF/Crypto 3",
-    "picoCTF/Crypto 2/3-caesar.md",
-    "picoCTF/Crypto 2/4-Easy1.md",
     "picoCTF/Crypto 2",
     "picoCTF/Crypto",
     "picoCTF/Forensic",
     "picoCTF/Forensic 4/Sin nombre",
     "picoCTF/Forensic 4",
-    "picoCTF/Forensic 3",
-    "picoCTF/Forensic 2"
+    "picoCTF/Forensic 3"
   ]
 }
