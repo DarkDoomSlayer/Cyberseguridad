@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "3-Picker I"
             }
+          },
+          {
+            "id": "ab185e8cc8ac4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing Parte 3/3-asm3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-asm3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,43 +198,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "514d83b7610f46fb",
+  "active": "ab185e8cc8ac4aa7",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte 3/2-asm2.md",
+    "picoCTF/Reversing Parte 3/1- asm1.md",
+    "documento_tecnico_polaris.md",
+    "picoCTF/Reversing Parte 3/4-Picker II.md",
+    "picoCTF/Reversing Parte 3/5-Picker III.md",
+    "picoCTF/Reversing Parte 3/5-Picker IV.md",
+    "picoCTF/Reversing Parte 3/3-asm3.md",
+    "picoCTF/Reversing Parte 3",
+    "picoCTF/Web Tarea 2 1/9-Unminify.md",
+    "picoCTF/Web Tarea 2 1/8-SQLiLite.md",
+    "picoCTF/Web Tarea 2 1/7-Secrets.md",
+    "picoCTF/Web Tarea 2 1/6-Roboto Sans.md",
+    "picoCTF/Web Tarea 2 1/5-Power Cookie.md",
+    "picoCTF/Web Tarea 2 1/4-Local Authority.md",
+    "picoCTF/Web Tarea 2 1/3-IntroToBurp.md",
+    "picoCTF/Web Tarea 2 1/2-Inspect HTML.md",
+    "picoCTF/Web Tarea 2 1/10-WebDecode.md",
+    "picoCTF/Web Tarea 2 1/1-Includes.md",
+    "picoCTF/Web Tarea 2 1",
+    "picoCTF/Reversing Parte 2/3-Picker I.md",
     "picoCTF/Reversing Parte 2/5-Picker IV.md",
     "picoCTF/Reversing Parte 2/5-Picker III.md",
     "picoCTF/Reversing Parte 2/4-Picker II.md",
-    "picoCTF/Reversing Parte 2/3-Picker I.md",
     "picoCTF/Reversing Parte 2/2-timer.md",
     "picoCTF/Reversing Parte 2/1- Safe Opener 2.md",
     "picoCTF/Reversing Parte 1/3-vault-door-3.md",
     "picoCTF/Reversing Parte 2",
     "picoCTF/Reversing Parte 1/4-vault-door-4.md",
     "picoCTF/Reversing Parte 1/5-vault-door-5.md",
-    "picoCTF/Reversing Parte 1/6-Client-side-again.md",
-    "picoCTF/Reversing Parte 1/2-vault-door-1.md",
-    "picoCTF/Reversing Parte 1/1-vault-door-training.md",
-    "picoCTF/Tarea Crypto/10-Vigenere.md",
     "picoCTF/Reversing Parte 1",
-    "picoCTF/Tarea Crypto/9-substitution2.md",
-    "picoCTF/Tarea Crypto/8-substitution1.md",
-    "picoCTF/Tarea Crypto/7-substitution0.md",
-    "picoCTF/Tarea Crypto/6-rail-fence.md",
-    "picoCTF/Tarea Crypto/5-morse-code.md",
-    "picoCTF/Tarea Crypto/4-hashcrack.md",
-    "picoCTF/Tarea Crypto/3-EVEN RSA CAN BE BROKEN???.md",
-    "picoCTF/Tarea Crypto/2-credstuff.md",
-    "picoCTF/Tarea Crypto/1-Crack the Power.md",
-    "picoCTF/Crypto 4/5-Flags.md",
     "picoCTF/Tarea Crypto",
-    "picoCTF/Crypto 4/4-ReadMyCert.md",
-    "picoCTF/Crypto 4/3-HideToSee.md",
-    "picoCTF/Crypto 4/2-basic-mod1.md",
     "picoCTF/Crypto 4",
     "picoCTF/Crypto 3",
     "picoCTF/Crypto 2",
     "picoCTF/Crypto",
-    "picoCTF/Forensic",
-    "picoCTF/Forensic 4/Sin nombre",
-    "picoCTF/Forensic 4"
+    "picoCTF/Forensic"
   ]
 }
